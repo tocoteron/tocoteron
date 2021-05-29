@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula)
-
+<div styles="display:flex;">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
+</div>
 
 <!--
 **tocoteron/tocoteron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
